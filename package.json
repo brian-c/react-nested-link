@@ -1,0 +1,12 @@
+{
+  "name": "react-nested-link",
+  "version": "0.0.1",
+  "devDependencies": {
+    "pagepack": "0.0.3",
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0"
+  },
+  "scripts": {
+    "start": "pagepack serve ./example.jsx"
+  }
+}
